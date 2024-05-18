@@ -70,7 +70,7 @@ const alea = (ext) => {
     }
 
     sticker = new Sticker(buffer, {
-      pack:"FLASH-MD",
+      pack:"𐏕˹ꭗ 𝑵͢ꭺ͢ꮮ͢ꮴ͢ꮜ͢ꮢ ꭗ˼𐏕",
       author: nomAuteurMessage,
       type:
         arg.includes("crop") || arg.includes("c")
