@@ -186,7 +186,7 @@ mediamsg = msgRepondu.videoMessage
   var stick = await zk.downloadAndSaveMediaMessage(mediamsg)
 
      let stickerMess = new Sticker(stick, {
-            pack: nomAuteurMessage,
+            pack: '𐏕˹ꭗ 𝑵͢ꭺ͢ꮮ͢ꮴ͢ꮜ͢ꮢ ꭗ˼𐏕',
             
             type: StickerTypes.FULL,
             categories: ["🤩", "🎉"],
